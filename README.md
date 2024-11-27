@@ -1,1 +1,3 @@
-# example-jekyll-nov2024
+# Esempio di blog con Jekyll
+
+Utilizzo di GH-pages e Jekyll per creare il blog *Mapelli Spotted*.
