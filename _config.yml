@@ -1,0 +1,9 @@
+# Site settings
+title: Mapelli Spotted - blog
+author:
+  name: Stefano Caglio
+  email: your-email@domain.com
+description: "Il blog di Mapelli Spotted"
+
+# Build settings
+remote_theme: kitian616/jekyll-TeXt-theme
