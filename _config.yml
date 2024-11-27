@@ -6,4 +6,4 @@ author:
 description: "Il blog di Mapelli Spotted"
 
 # Build settings
-remote_theme: kitian616/jekyll-TeXt-theme
+remote_theme: jekyll/minima
