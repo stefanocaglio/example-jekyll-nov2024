@@ -2,6 +2,6 @@
 layout: home 
 ---
 
-# Mapelli Spotted
+Mapelli Spotted
 
 Welcome to my new blog!
